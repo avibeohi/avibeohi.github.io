@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://avibeohi.github.io/HjF/sitemap_index.txt
+Sitemap: https://avibeohi.github.io/bOc/sitemap_index.txt
+Sitemap: https://avibeohi.github.io/mCG/sitemap_index.txt
+Sitemap: https://avibeohi.github.io/qOG/sitemap_index.txt
